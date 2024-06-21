@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ5569_출근경로_지민 {
+public class 출근경로_지민 {
 	static int w;
 	static int h;
 	static final int MOD = 100000;

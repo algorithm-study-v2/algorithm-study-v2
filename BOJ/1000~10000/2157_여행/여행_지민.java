@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ2157_여행_지민 {
+public class 여행_지민 {
 	static int N;	// 도시 개수
 	static int M;	// 여행 도시 최대 개수
 	static int K; 	// 개설된 항공로의 개수
