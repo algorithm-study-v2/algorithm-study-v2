@@ -1,5 +1,5 @@
 /**
- * IMOS 
+ * IMOS
  * 누적합
  */
 class Solution {
